@@ -7,4 +7,70 @@
 
 /*HEADER*/
 
+.header-top {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.header-top .header-logo{
+   height: 15px;
+}
+
+.ms_btn {
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 38px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+}
+
+/*JUMBOTRON*/
+
+#jumbotron {
+ margin-top: 105px;
+ background-image: url(img/jumbo-bg.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ min-height: 600px;
+}
+
+.returnal-logo {
+    height: 38px;
+}
+
+.jumbo-content {
+    padding-top: 200px;
+}
+
+/*JUMBOTRON 2*/
+
+#jumbotron-2 {
+    margin-top: 105px;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+   }
+   
+   .itt-logo {
+       height: 200px;
+   }
+   
+   .jumbo2-content {
+       padding-top: 40px;
+   }
+
+/*NUOVE USCITE*/
+
+.nuove-uscite {
+    background-color: rgb(31, 31, 31);
+}
+
 
