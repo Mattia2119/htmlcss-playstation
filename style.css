@@ -26,6 +26,7 @@
     padding-right: 15px;
     height: 43px;
     border-radius: 25px;
+    font-size: 16px;
 }
 
 nav a {
@@ -89,6 +90,10 @@ nav a {
     background-color: rgb(190, 188, 187);
 }
 
+.ps-plus p {
+    font-size: 16px;
+}
+
 .ms_psplus-logo {
     max-height: 55px;
 }
@@ -102,9 +107,28 @@ nav a {
     background-color: rgb(22, 27, 58);
 }
 
+.playstation-now p {
+    font-size: 16px;
+}
+
 /*SOCIAL MEDIA*/
 
 
 /*FOOTER*/
+footer {
+    background-color: rgb(0, 67, 156);
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
 
+footer i {
+    margin-right: 10px;
+}
 
+.sony-logo {
+    height: 80px;
+}
+
+.Interactive-logo {
+    height: 60px;
+}
